@@ -40,3 +40,4 @@ func F7() {
 //redmi commit 6
 //redmi commit 7
 //redmi dev1 1
+//acer acer_dev1 1
