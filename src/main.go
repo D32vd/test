@@ -44,3 +44,5 @@ func F7() {
 //redmi dev1 3
 //acer acer_dev1 1
 //acer acer_dev1 2
+
+//redmi dev1 4
