@@ -24,3 +24,8 @@ func F3() {
 func F5() {
 
 }
+
+//redmi comit 4
+func F6() {
+
+}
